@@ -11,7 +11,7 @@ import javax.persistence.Table;
 
 /**
  *
- * @author Raildo B Rodrigues
+ * @author Raildo
  */
 @Entity
 @Table(name = "estados")
